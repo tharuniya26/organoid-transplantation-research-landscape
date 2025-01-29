@@ -1,0 +1,7 @@
+organoid_type,in_vitro_functional_characterization,preclinical_engraftment,vascular_integration,functional_maturation,safety_assessment,human_clinical_investigation,manufacturing_and_scale_up,supporting_studies
+Brain,Supported,Supported,Supported,Supported,Unassessed,Unassessed,Unassessed,ORG006;ORG012
+Colonic,Supported,Supported,Unassessed,Supported,Unassessed,Unassessed,Unassessed,ORG001
+Intestinal,Supported,Supported,Supported,Supported,Supported,Unassessed,Unassessed,ORG004;ORG010;ORG014
+Kidney,Supported,Supported,Supported,Supported,Unassessed,Unassessed,Unassessed,ORG005;ORG007;ORG008;ORG011;ORG013
+Liver,Supported,Supported,Supported,Supported,Unassessed,Unassessed,Unassessed,ORG002
+Retinal,Supported,Supported,Unassessed,Supported,Supported,Unassessed,Uncertain,ORG003;ORG009;ORG015

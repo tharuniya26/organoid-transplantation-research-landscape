@@ -1,0 +1,640 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d5" for="edge" attr.name="evidence_count" attr.type="long"/>
+<key id="d4" for="edge" attr.name="study_ids" attr.type="string"/>
+<key id="d3" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d2" for="node" attr.name="label" attr.type="string"/>
+<key id="d1" for="node" attr.name="node_type" attr.type="string"/>
+<key id="d0" for="graph" attr.name="title" attr.type="string"/>
+<graph edgedefault="undirected"><data key="d0">Organoid transplantation evidence network</data>
+<node id="organoid_type:Colonic">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Colonic</data>
+</node>
+<node id="stem_cell_source:Adult stem cell">
+  <data key="d1">Stem-cell source</data>
+  <data key="d2">Adult stem cell</data>
+</node>
+<node id="target_tissue:Colon">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Colon</data>
+</node>
+<node id="experimental_model:Immunodeficient mouse injury model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Immunodeficient mouse injury model</data>
+</node>
+<node id="reported_outcome:Reported positive">
+  <data key="d1">Reported outcome</data>
+  <data key="d2">Reported positive</data>
+</node>
+<node id="translational_barrier:Mouse model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Mouse model</data>
+</node>
+<node id="translational_barrier:localized epithelial injury">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">localized epithelial injury</data>
+</node>
+<node id="organoid_type:Liver">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Liver</data>
+</node>
+<node id="stem_cell_source:Induced pluripotent stem cell">
+  <data key="d1">Stem-cell source</data>
+  <data key="d2">Induced pluripotent stem cell</data>
+</node>
+<node id="target_tissue:Liver">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Liver</data>
+</node>
+<node id="experimental_model:Immunodeficient mouse model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Immunodeficient mouse model</data>
+</node>
+<node id="translational_barrier:Immature organ bud">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Immature organ bud</data>
+</node>
+<node id="translational_barrier:xenograft model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">xenograft model</data>
+</node>
+<node id="translational_barrier:no recipient liver replacement">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">no recipient liver replacement</data>
+</node>
+<node id="organoid_type:Retinal">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Retinal</data>
+</node>
+<node id="stem_cell_source:Embryonic and induced pluripotent stem cells">
+  <data key="d1">Stem-cell source</data>
+  <data key="d2">Embryonic and induced pluripotent stem cells</data>
+</node>
+<node id="target_tissue:Neural retina">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Neural retina</data>
+</node>
+<node id="experimental_model:Retinal-degeneration mouse model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Retinal-degeneration mouse model</data>
+</node>
+<node id="translational_barrier:structural endpoints predominate">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">structural endpoints predominate</data>
+</node>
+<node id="organoid_type:Intestinal">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Intestinal</data>
+</node>
+<node id="target_tissue:Small intestine">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Small intestine</data>
+</node>
+<node id="translational_barrier:Ectopic site">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Ectopic site</data>
+</node>
+<node id="translational_barrier:host-derived vasculature">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">host-derived vasculature</data>
+</node>
+<node id="translational_barrier:developmental model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">developmental model</data>
+</node>
+<node id="organoid_type:Kidney">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Kidney</data>
+</node>
+<node id="target_tissue:Kidney">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Kidney</data>
+</node>
+<node id="translational_barrier:No urinary outflow">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">No urinary outflow</data>
+</node>
+<node id="translational_barrier:xenograft">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">xenograft</data>
+</node>
+<node id="translational_barrier:immature renal tissue">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">immature renal tissue</data>
+</node>
+<node id="organoid_type:Brain">
+  <data key="d1">Organoid type</data>
+  <data key="d2">Brain</data>
+</node>
+<node id="stem_cell_source:Human pluripotent stem cell">
+  <data key="d1">Stem-cell source</data>
+  <data key="d2">Human pluripotent stem cell</data>
+</node>
+<node id="target_tissue:Brain">
+  <data key="d1">Target tissue</data>
+  <data key="d2">Brain</data>
+</node>
+<node id="experimental_model:Adult immunodeficient mouse model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Adult immunodeficient mouse model</data>
+</node>
+<node id="translational_barrier:Chimeric model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Chimeric model</data>
+</node>
+<node id="translational_barrier:limited therapeutic injury evidence">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">limited therapeutic injury evidence</data>
+</node>
+<node id="translational_barrier:ethical concerns">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">ethical concerns</data>
+</node>
+<node id="translational_barrier:Small ectopic graft">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Small ectopic graft</data>
+</node>
+<node id="translational_barrier:no collecting system">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">no collecting system</data>
+</node>
+<node id="translational_barrier:No collecting duct outlet">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">No collecting duct outlet</data>
+</node>
+<node id="translational_barrier:host vasculature">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">host vasculature</data>
+</node>
+<node id="translational_barrier:short follow-up">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">short follow-up</data>
+</node>
+<node id="stem_cell_source:Embryonic stem cell">
+  <data key="d1">Stem-cell source</data>
+  <data key="d2">Embryonic stem cell</data>
+</node>
+<node id="experimental_model:Immunodeficient rat degeneration model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Immunodeficient rat degeneration model</data>
+</node>
+<node id="translational_barrier:Animal model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Animal model</data>
+</node>
+<node id="translational_barrier:rosette architecture">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">rosette architecture</data>
+</node>
+<node id="translational_barrier:surgical translation challenges">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">surgical translation challenges</data>
+</node>
+<node id="translational_barrier:Site-dependent survival and engraftment">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Site-dependent survival and engraftment</data>
+</node>
+<node id="translational_barrier:Only a subset of glomeruli filtered">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Only a subset of glomeruli filtered</data>
+</node>
+<node id="translational_barrier:no urinary outflow">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">no urinary outflow</data>
+</node>
+<node id="experimental_model:Athymic neonatal rat model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Athymic neonatal rat model</data>
+</node>
+<node id="translational_barrier:Neonatal chimeric model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Neonatal chimeric model</data>
+</node>
+<node id="translational_barrier:not a therapy study">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">not a therapy study</data>
+</node>
+<node id="experimental_model:Chicken embryo model">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Chicken embryo model</data>
+</node>
+<node id="translational_barrier:Avian embryonic model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Avian embryonic model</data>
+</node>
+<node id="translational_barrier:limited direct clinical comparability">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">limited direct clinical comparability</data>
+</node>
+<node id="experimental_model:Immunodeficient and colitis mouse models">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Immunodeficient and colitis mouse models</data>
+</node>
+<node id="reported_outcome:Reported negative">
+  <data key="d1">Reported outcome</data>
+  <data key="d2">Reported negative</data>
+</node>
+<node id="translational_barrier:No engraftment at injured colon">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">No engraftment at injured colon</data>
+</node>
+<node id="translational_barrier:transient functional signal">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">transient functional signal</data>
+</node>
+<node id="translational_barrier:mouse model">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">mouse model</data>
+</node>
+<node id="experimental_model:Retinal-degeneration and tumorigenicity rat models">
+  <data key="d1">Experimental model</data>
+  <data key="d2">Retinal-degeneration and tumorigenicity rat models</data>
+</node>
+<node id="translational_barrier:Off-target tissue control">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">Off-target tissue control</data>
+</node>
+<node id="translational_barrier:animal evidence">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">animal evidence</data>
+</node>
+<node id="translational_barrier:industry conflicts disclosed">
+  <data key="d1">Translational barrier</data>
+  <data key="d2">industry conflicts disclosed</data>
+</node>
+<edge source="organoid_type:Colonic" target="stem_cell_source:Adult stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Colonic" target="target_tissue:Colon">
+  <data key="d3">targets</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Colonic" target="experimental_model:Immunodeficient mouse injury model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Colonic" target="reported_outcome:Reported positive">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Colonic" target="translational_barrier:Mouse model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Colonic" target="translational_barrier:localized epithelial injury">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG001</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="target_tissue:Colon" target="organoid_type:Intestinal">
+  <data key="d3">targets</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="reported_outcome:Reported positive" target="organoid_type:Liver">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="reported_outcome:Reported positive" target="organoid_type:Retinal">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG003;ORG009;ORG015</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="reported_outcome:Reported positive" target="organoid_type:Intestinal">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG004;ORG010</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="reported_outcome:Reported positive" target="organoid_type:Kidney">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG005;ORG007;ORG008;ORG011;ORG013</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="reported_outcome:Reported positive" target="organoid_type:Brain">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG006;ORG012</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="translational_barrier:Mouse model" target="organoid_type:Retinal">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG003</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="stem_cell_source:Induced pluripotent stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="target_tissue:Liver">
+  <data key="d3">targets</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="experimental_model:Immunodeficient mouse model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="translational_barrier:Immature organ bud">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="translational_barrier:xenograft model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Liver" target="translational_barrier:no recipient liver replacement">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG002</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="stem_cell_source:Induced pluripotent stem cell" target="organoid_type:Kidney">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG005;ORG011;ORG013</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="stem_cell_source:Induced pluripotent stem cell" target="organoid_type:Brain">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG012</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="stem_cell_source:Induced pluripotent stem cell" target="organoid_type:Intestinal">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="stem_cell_source:Induced pluripotent stem cell" target="organoid_type:Retinal">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG015</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="experimental_model:Immunodeficient mouse model" target="organoid_type:Intestinal">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG004;ORG010</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="experimental_model:Immunodeficient mouse model" target="organoid_type:Kidney">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG005;ORG007;ORG008;ORG011</data>
+  <data key="d5">4</data>
+</edge>
+<edge source="translational_barrier:xenograft model" target="organoid_type:Intestinal">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG010</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="stem_cell_source:Embryonic and induced pluripotent stem cells">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG003</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="target_tissue:Neural retina">
+  <data key="d3">targets</data>
+  <data key="d4">ORG003;ORG009;ORG015</data>
+  <data key="d5">3</data>
+</edge>
+<edge source="organoid_type:Retinal" target="experimental_model:Retinal-degeneration mouse model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG003</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:structural endpoints predominate">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG003</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="stem_cell_source:Embryonic stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG009</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="experimental_model:Immunodeficient rat degeneration model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG009</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:Animal model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG009</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:rosette architecture">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG009</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:surgical translation challenges">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG009</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="experimental_model:Retinal-degeneration and tumorigenicity rat models">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG015</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:Off-target tissue control">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG015</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:animal evidence">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG015</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Retinal" target="translational_barrier:industry conflicts disclosed">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG015</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="stem_cell_source:Embryonic and induced pluripotent stem cells" target="organoid_type:Intestinal">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG004</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="target_tissue:Small intestine">
+  <data key="d3">targets</data>
+  <data key="d4">ORG004;ORG010</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:Ectopic site">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG004</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:host-derived vasculature">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG004</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:developmental model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG004</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="stem_cell_source:Embryonic stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG010</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:Site-dependent survival and engraftment">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG010</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="experimental_model:Immunodeficient and colitis mouse models">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="reported_outcome:Reported negative">
+  <data key="d3">engraftment_status</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:No engraftment at injured colon">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:transient functional signal">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Intestinal" target="translational_barrier:mouse model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG014</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="target_tissue:Kidney">
+  <data key="d3">targets</data>
+  <data key="d4">ORG005;ORG007;ORG008;ORG011;ORG013</data>
+  <data key="d5">5</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:No urinary outflow">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG005</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:xenograft">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG005;ORG007</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:immature renal tissue">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG005</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="stem_cell_source:Human pluripotent stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG007;ORG008</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:Small ectopic graft">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG007</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:no collecting system">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG007</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:No collecting duct outlet">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG008</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:host vasculature">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG008</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:short follow-up">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG008;ORG011</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:Only a subset of glomeruli filtered">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG011</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:no urinary outflow">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG011</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="experimental_model:Chicken embryo model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG013</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:Avian embryonic model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG013</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Kidney" target="translational_barrier:limited direct clinical comparability">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG013</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="stem_cell_source:Human pluripotent stem cell">
+  <data key="d3">derived_from</data>
+  <data key="d4">ORG006</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="target_tissue:Brain">
+  <data key="d3">targets</data>
+  <data key="d4">ORG006;ORG012</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Brain" target="experimental_model:Adult immunodeficient mouse model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG006</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="translational_barrier:Chimeric model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG006</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="translational_barrier:limited therapeutic injury evidence">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG006</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="translational_barrier:ethical concerns">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG006;ORG012</data>
+  <data key="d5">2</data>
+</edge>
+<edge source="organoid_type:Brain" target="experimental_model:Athymic neonatal rat model">
+  <data key="d3">tested_in</data>
+  <data key="d4">ORG012</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="translational_barrier:Neonatal chimeric model">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG012</data>
+  <data key="d5">1</data>
+</edge>
+<edge source="organoid_type:Brain" target="translational_barrier:not a therapy study">
+  <data key="d3">limited_by</data>
+  <data key="d4">ORG012</data>
+  <data key="d5">1</data>
+</edge>
+</graph></graphml>

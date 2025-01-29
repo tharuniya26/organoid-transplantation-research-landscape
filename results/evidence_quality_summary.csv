@@ -1,0 +1,16 @@
+study_id,model_reported,control_design_identifiable,engraftment_assessed,functional_outcome_reported,safety_assessed,clinical_applicability,appraisal_note
+ORG001,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Mouse model; localized epithelial injury
+ORG002,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Immature organ bud; xenograft model; no recipient liver replacement
+ORG003,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Mouse model; structural endpoints predominate
+ORG004,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Ectopic site; host-derived vasculature; developmental model
+ORG005,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,No urinary outflow; xenograft; immature renal tissue
+ORG006,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Chimeric model; limited therapeutic injury evidence; ethical concerns
+ORG007,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Small ectopic graft; no collecting system; xenograft
+ORG008,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,No collecting duct outlet; host vasculature; short follow-up
+ORG009,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Animal model; rosette architecture; surgical translation challenges
+ORG010,Yes,Yes,Yes,Yes,Yes,Indirect preclinical evidence,Site-dependent survival and engraftment; xenograft model
+ORG011,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Only a subset of glomeruli filtered; no urinary outflow; short follow-up
+ORG012,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Neonatal chimeric model; ethical concerns; not a therapy study
+ORG013,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,Avian embryonic model; limited direct clinical comparability
+ORG014,Yes,Yes,Yes,Yes,No,Indirect preclinical evidence,No engraftment at injured colon; transient functional signal; mouse model
+ORG015,Yes,Unclear,Yes,Yes,Yes,Indirect preclinical evidence,Off-target tissue control; animal evidence; industry conflicts disclosed

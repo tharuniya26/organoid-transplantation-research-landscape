@@ -1,0 +1,15 @@
+metric,category,value
+node_count,all,64
+edge_count,all,75
+connected_components,all,1
+nodes_by_type,Experimental model,9
+nodes_by_type,Organoid type,6
+nodes_by_type,Reported outcome,2
+nodes_by_type,Stem-cell source,5
+nodes_by_type,Target tissue,6
+nodes_by_type,Translational barrier,36
+edges_by_relation,derived_from,12
+edges_by_relation,engraftment_status,7
+edges_by_relation,limited_by,38
+edges_by_relation,targets,7
+edges_by_relation,tested_in,11

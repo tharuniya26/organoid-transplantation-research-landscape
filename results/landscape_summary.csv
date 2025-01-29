@@ -1,0 +1,14 @@
+metric,value
+eligible_studies,15
+verified_studies,15
+organoid_categories,6
+stem_cell_source_categories,5
+experimental_model_categories,9
+publication_year_start,2012
+publication_year_end,2023
+doi_identifiers,15
+pmid_identifiers,15
+verified_source_identifiers,30
+missing_cells,0
+unverified_records,0
+unavailable_engraftment_or_vascularization_fields,5

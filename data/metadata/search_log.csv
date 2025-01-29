@@ -1,0 +1,5 @@
+database,search_date,query,records_note
+PubMed,2026-10-18,"(organoid*[Title/Abstract]) AND (transplant*[Title/Abstract] OR engraft*[Title/Abstract])","Reproducible broad query; curated seed records were identifier-verified"
+PubMed,2026-10-18,"((kidney OR renal OR intestinal OR colon* OR retinal OR liver OR brain OR cortical) AND organoid*) AND (transplant* OR engraft*)","Organ-specific supplementary query"
+ClinicalTrials.gov,2026-10-18,"organoid transplantation","Used to check clinical-stage distinction; no trial result was added as a primary transplantation outcome study"
+
