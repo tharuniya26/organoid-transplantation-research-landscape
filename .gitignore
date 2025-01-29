@@ -1,0 +1,12 @@
+source_material_private/
+.work/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+dist/
+build/
+*.egg-info/
+.env
+

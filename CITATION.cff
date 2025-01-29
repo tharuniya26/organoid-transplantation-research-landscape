@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+title: "Organoid Transplantation Research Landscape and Translational Applications"
+message: "If you use this software or curated dataset, please cite this repository."
+type: software
+authors:
+  - family-names: Anpalakan
+    given-names: Tharuniya
+affiliation: "Department of Applied Sciences, Northumbria University, Newcastle upon Tyne, United Kingdom"
+email: w25070895@northumbria.ac.lk
+version: 1.0.0
+date-released: 2026-10-18
+license: MIT
+
